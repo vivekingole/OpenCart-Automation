@@ -11,4 +11,4 @@ Functionality covered in this automation Project :
 
 ## Final Automation Report <br>
 
-<img src="screenshots/1.PNG" height=600 width=1000/><br>
+<img src="screenshots/1.PNG" height=500 width=800/><br>
