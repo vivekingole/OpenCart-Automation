@@ -8,3 +8,6 @@ Functionality covered in this automation Project :
 5. Entering address details
 6. adding products into cart (cart validation)
 7. Checkout
+## Final Automation Report <br>
+
+<img src="screenshot/1.png" height=400 width=600/><br>
