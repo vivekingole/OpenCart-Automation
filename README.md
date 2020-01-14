@@ -9,6 +9,6 @@ Functionality covered in this automation Project :
 6. adding products into cart (cart validation)
 7. Checkout
 
-## Final Automation Report <br>
+## Final Automation Report using Extend Report <br>
 
-<img src="screenshots/1.PNG" height=500 width=800/><br>
+<img src="screenshots/1.PNG" height=500 width=1000/><br>
