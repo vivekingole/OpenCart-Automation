@@ -1,6 +1,6 @@
 # OpenCart-Automation
-The project is based in Java-Selenium technology to automate demo.opencart.com website.
-Functionality covered in this automation script :
+The project is based on Java-Selenium technology to automate https://demo.opencart.com/ website.
+Functionality covered in this automation Project :
 1. Registration of new user
 2. login existing user
 3. browsing differnt menues
